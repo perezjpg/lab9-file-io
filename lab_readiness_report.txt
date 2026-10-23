@@ -1,0 +1,7 @@
+Lab Readiness Report
+Laboratory: Engineering Lab A
+Total workstations: 12
+Unavailable workstations: 3
+Minimum required: 8
+Available workstations: 9
+Workshop can open.
